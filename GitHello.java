@@ -12,10 +12,16 @@ public class GitHello {
 		System.out.println("Hello");
 	}
 	
+	public static int sub(int num1, int num2) {
+		return num1-num2;
+	}
+	
 	public static void main(String[] args) {
 	
 		add(1,3);
 		printHello();
+		int numSub = sub(5,3);
+		
 		
 		
 		
