@@ -3,13 +3,19 @@ package GitHello;
 
 public class GitHello {
 	
-	public static void hello() {
-		System.out.println("Hello world");
+	public static void add(int num1, int num2) {
+		int num3 = num1 + num2; 
+		System.out.println(num3);
+		
+	}
+	public static void printHello () {
+		System.out.println("Hello");
 	}
 	
 	public static void main(String[] args) {
 	
-		hello();
+		add(1,3);
+		printHello();
 		
 		
 		
