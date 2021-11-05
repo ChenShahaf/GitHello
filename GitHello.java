@@ -17,7 +17,9 @@ public class GitHello {
 		add(1,3);
 		printHello();
 		
+		System.out.println("My name is branch test_print");
 		
+		System.out.println("My name is branch test_print_2");
 		
 		
 		
