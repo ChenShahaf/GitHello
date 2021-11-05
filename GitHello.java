@@ -23,7 +23,9 @@ public class GitHello {
 		int numSub = sub(5,3);
 		
 		
+		System.out.println("My name is branch test_print");
 		
+		System.out.println("My name is branch test_print_2");
 		
 		
 		
