@@ -28,6 +28,8 @@ public class GitHello {
 		System.out.println("My name is branch test_print_2");
 		
 		
+		System.out.println("Checking out main brach");
+		
 		
 		
 	
